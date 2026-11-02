@@ -1,7 +1,6 @@
 # URUP - Universal Release & Update Protocol
 **Allgemeine Systemspezifikation - Version 1.0**
 
-Status: Spezifikationsentwurf  
 Anwendungsbereich: Softwareversionierung und Releaseverwaltung
 
 ---
@@ -276,9 +275,3 @@ Diese Aufgaben werden durch die jeweilige Anwendung und deren Infrastruktur gere
 URUP kann unabhängig von Programmiersprache, Betriebssystem oder Servertechnologie eingesetzt werden.
 
 Der Standard stellt sicher, dass sämtliche beteiligten Systeme Versionskennungen einheitlich interpretieren, nummerieren und vergleichen.
-
----
-
-**URUP 1.0 - Ende der allgemeinen Systemspezifikation**
-
-Status: Entwurf zur weiteren Ausarbeitung und Festlegung.
